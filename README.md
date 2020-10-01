@@ -29,3 +29,5 @@ SCOPES = ['https://www.googleapis.com/auth/calendar']
 in the `quickstart.py`. This way you will give the access to create the calendar events and not only to read them.
 
 3. After this you can just add the token.pickle to the /credentials folder.
+
+This is the best backend for the Gym class reserver.
